@@ -1,0 +1,1 @@
+iwr <URL to PS-script> | iex
