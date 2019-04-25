@@ -1,1 +1,1 @@
-# powershell_oneliners
+Powershell onliners for pentesting
