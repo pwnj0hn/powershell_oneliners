@@ -1,1 +1,2 @@
 iwr <URL to PS-script> | iex
+wget -useb <URL to PS-script> | iex
